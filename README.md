@@ -22,7 +22,3 @@ Push your branch to your fork and open a pull request against the main repositor
 Support 💬
 If you have any questions, suggestions, or feedback, feel free to reach out! We're here to help and make Beamer.py better for everyone. 👍
 
-License 📄
-Beamer.py is released under the MIT License. Check out the LICENSE file for more details. Happy coding! 🎉
-
-Thank you for choosing Beamer.py! Let's bring your social media presence to life with ASCII art!
