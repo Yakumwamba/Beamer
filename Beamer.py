@@ -18,7 +18,7 @@ def print_ascii_art():
 def main():
     print_ascii_art()
     parser = argparse.ArgumentParser(description='Beamer CLI Program')
-    parser.add_argument('username', type=str, help='Username for the social media account')
+    parser.add_argument('username', type=str, help='Username for  Roblox')
     parser.add_argument('-b', '--banner', action='store_true', help='Print a banner with ASCII graphics')
     args = parser.parse_args()
 
