@@ -1,0 +1,1 @@
+    Remember to make your Beamer.py script executable by running chmod +x Beamer.py on Unix-like systems.
