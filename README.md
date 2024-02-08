@@ -10,7 +10,7 @@ Features
 
 How to Use:
 
-Running Beamer.py is as easy as pie! Just follow these steps:
+python3 Beamer.py
 
 
 Here's how you can contribute:
